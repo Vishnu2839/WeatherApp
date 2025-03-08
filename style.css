@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+input[type="text"]{
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: inset;
+    height: 40px;
+}
+/* 
+.temp{
+ text-align: center;
+ font-size: 30px;
+}
+
+.city-name{
+    text-align: center;
+    font-size: 40px;
+}
+.desc{
+    text-align: center;
+} */
+.details{
+   padding: 40px 30px;
+   font-size: 30px;
+   text-align: center;
+
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+img{
+    height: 300px;
+}
